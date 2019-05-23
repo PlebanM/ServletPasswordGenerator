@@ -1,0 +1,43 @@
+h1{
+    color: blue;
+}
+
+body {
+    display: block;
+    margin: 8px;
+}
+.chboxl {
+    display: inline;
+    text-align: left;
+    float: left;
+    width: 220px;
+    margin: 0;
+    padding: 0;
+    height: 27px;
+}
+.chboxr {
+    display: inline;
+    text-align: left;
+    float: left;
+    width: 580px;
+    margin: 0;
+    padding: 0;
+    height: 27px;
+}
+.container {
+    width: 900px;
+    margin: 30px auto;
+    padding: 50px 30px 10px 30px;
+    background: #ffffff;
+    line-height: 23px;
+    border: 1px solid #dfdfdf;
+    border-radius: 10px 10px;
+    overflow: hidden;
+}
+div{
+    display: block;
+}
+.passbutton{
+    display: block;
+    position: center;
+}
